@@ -1,0 +1,11 @@
+fr\univtours\polytech\tp_note\business\LivreBusinessImpl.class
+fr\univtours\polytech\tp_note\business\LivreBusiness.class
+fr\univtours\polytech\tp_note\dao\ConnectionDB.class
+fr\univtours\polytech\tp_note\dao\LivreDAO.class
+fr\univtours\polytech\tp_note\resources\JakartaEE10Resource.class
+fr\univtours\polytech\tp_note\dao\LivreDAOImpl.class
+fr\univtours\polytech\tp_note\controller\FillDBServlet.class
+fr\univtours\polytech\tp_note\controller\ReservationServlet.class
+fr\univtours\polytech\tp_note\model\LivreBean.class
+fr\univtours\polytech\tp_note\JakartaRestConfiguration.class
+fr\univtours\polytech\tp_note\controller\MainPageServlet.class
